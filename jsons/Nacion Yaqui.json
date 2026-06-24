@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Loa Yaqui",
+		"leaderName": "José María Leyva",
+		"adjective": ["Human"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Culture",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
