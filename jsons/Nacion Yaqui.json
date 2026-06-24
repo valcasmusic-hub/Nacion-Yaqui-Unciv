@@ -32,9 +32,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Cócorit","Bácum","Tórim","Vícam","Pótam","Ráhum","Huírivis","Pitahaya Belem","Loma de Guamúchil","Cajeme","Tetabiate","Tobarito","Tajimaroa","Chu'ukari","Quetchehueca","Jecopaco","Torocopobampo","Bataconcica",
+    "Juvani","Chumampaco","Babojori","Tesopobampo","Bateve","Jostahueca","Etchohuaquila","Buaraje","Batevito","Yucuribampo","Altos de Jecopaco","Loma de Bácum","Jupsi","Pueblo Yaqui","Chumampaco","San José de Bácum",
+    "Singapur","San Ignacio Río Muerto","Providencia","Esperanza", "Estación Corral","Ciudad Obregón"]
 	}
 ]
