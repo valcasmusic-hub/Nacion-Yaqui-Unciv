@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Loa Yaqui",
-		"leaderName": "José María Leyva",
+		"name": "Mayo-Yoreme",
+		"leaderName": "Juan Banderas",
 		"adjective": ["Human"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Culture",
@@ -32,8 +32,10 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Cócorit","Bácum","Tórim","Vícam","Pótam","Ráhum","Huírivis","Pitahaya Belem","Loma de Guamúchil","Cajeme","Tetabiate","Tobarito","Tajimaroa","Chu'ukari","Quetchehueca","Jecopaco","Torocopobampo","Bataconcica",
-    "Juvani","Chumampaco","Babojori","Tesopobampo","Bateve","Jostahueca","Etchohuaquila","Buaraje","Batevito","Yucuribampo","Altos de Jecopaco","Loma de Bácum","Jupsi","Pueblo Yaqui","Chumampaco","San José de Bácum",
-    "Singapur","San Ignacio Río Muerto","Providencia","Esperanza", "Estación Corral","Ciudad Obregón"]
+		"cities": "cities": ["Navojoa","Júpare","Huatabampo","Etchojoa","Tesia","Camoa","Mocúzari-Conicárit","Bacobampo","San Pedro","Pueblo Mayo","Masiaca",
+		"Bacabachi","Chucarit","Buaysiacobe","Yavaros","Sirebampo","Ahome","Basconcobe","Teachive","Bacame","Mochipaco","Navobaxia","Baynorillo","Baboyahui","Jitonhueca","Huirachaca",
+   		"Buiyarumo","Aquichopo","Camahuiroa","Bachoco","Mochibampo","Buayums","Citaváro","Mocorúa","Guayparín","Burabampo","Chinotahueca","Navolato","Yemobari","Mocochopo",
+    	"Aquichopo","Mayocahui","Moroncárit", "Sinahuisa", "Chirajobampo", "Bacabachi"
+]
 	}
 ]
